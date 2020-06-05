@@ -12,3 +12,4 @@ dependencies:
   - pip
   - graphviz
   - pydotplus
+  - torchvision
